@@ -9,7 +9,10 @@ function App() {
         <nav className="navbar">
           <div>
             Mini room 3D design with spline. Tutorial from{" "}
-            <a href="/" target="_blank">
+            <a
+              href="https://www.youtube.com/watch?v=XHvCk7Z2x1A"
+              target="_blank"
+            >
               here.
             </a>
           </div>
